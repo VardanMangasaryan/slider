@@ -1,0 +1,27 @@
+body {
+    overflow: hidden;
+}
+.main {
+    background-image: url("images/seynerablaugrana.jpg");
+    background-size: cover;
+    width: 100vw;
+    height:100vh;
+}
+
+img {
+    border-radius: 30px;
+}
+
+.row{
+    padding-top: 200px;
+}
+h5{
+    color: white;
+}
+p{
+    color: white;
+}
+
+.carousel-inner{
+    border-radius: 30px;
+}
